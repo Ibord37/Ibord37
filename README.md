@@ -1,8 +1,5 @@
 ## Hi there 👋
 
-<!--
-**Ibord37/Ibord37** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Hello guys, I'm Vincent (18) from **Medan, Indonesia**.
 - 🔭 I’m currently working on something cool.
 - 🌱 I’m currently learning programming.
